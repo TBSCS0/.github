@@ -19,7 +19,7 @@ The finance branch at CS0 focuses on investments, predictive algorithms and mach
 
 Current ambassador:
 
-## Honourable alumni of the CS0 ⭐
+## Honourable alumni at the CS0 ⭐
 The alumni listed here made great contributions and were pioneers in some of the CS0 projects.
 - [Alexandre Filho](https://github.com/2022AlexandreFilho)
 - [Laura Lane](https://github.com/lauralane333)
