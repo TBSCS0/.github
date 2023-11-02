@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<body style="background-color: black; color: yellow;">
-
 # CS0
 
 ## About
@@ -16,6 +11,3 @@ The programming branch at CS0 focus on programming olympiads and competitions.
 
 ## Finance Branch
 The finance branch at CS0 focus on investments, predictive algorithms and machine learning.
-
-</body>
-</html>
