@@ -1,5 +1,5 @@
 # CS0
-![CS0 Logo](https://tbscs0.github.io/img/cs0-bg.png)
+![CS0 Logo](https://github.com/TBSCS0/.github/blob/main/profile/cs0.png)
 
 ## About
 CS0 is a club at The British School Rio de Janeiro associated with the Computer Science department. The club has three branches with activities related to computer science, programming, engineering and finance. In this club, the students are advised by [Oscar Neiva](https://github.com/oscarneiva), a Computer Science teacher at The British School Rio de Janeiro.
