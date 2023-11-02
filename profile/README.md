@@ -11,3 +11,9 @@ The programming branch at CS0 focuses on programming olympiads and competitions.
 
 ## Finance Branch 📈
 The finance branch at CS0 focuses on investments, predictive algorithms and machine learning.
+
+## Honourable alumni of the CS0 ⭐
+The alumni listed here made great contributions and were pioneers in some of the CS0 projects.
+- Alexandre Filho
+- Laura Lane
+- Yerin Cho
