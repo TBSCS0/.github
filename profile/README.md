@@ -2,7 +2,7 @@
 ![CS0 Logo](https://github.com/TBSCS0/.github/blob/main/profile/cs0-bg.png)
 
 ## About
-CS0 is a club at The British School Rio de Janeiro associated with the Computer Science department. The club has three branches with activities related to computer science, programming, engineering and finance. In this club, the students are advised by [Oscar Neiva](https://github.com/oscarneiva), a Computer Science teacher at The British School Rio de Janeiro.
+CS0 is a club at The British School Rio de Janeiro associated with the Computer Science department. The club has three branches with activities related to computer science, programming, engineering and finance. In this club, the students are advised by [Oscar Neiva](oscarneiva.github.io), a Computer Science teacher at The British School Rio de Janeiro.
 
 ## Engineering Branch 🚀
 The CS0 engineering branch focuses on the production of nanosatellite systems. Among the nanosatellite categories, the CS0 developed a cansat. Cansats have a small set of subsystems, for instance, the power and energy subsystem, sensors subsystem and communication subsystem.
