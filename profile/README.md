@@ -1,5 +1,5 @@
 ## About
-CS0 is a club at The British School Rio de Janeiro associated with the Computer Science department. The club has three branches with activities related to computer science, programming, engineering and finance.
+CS0 is a club at The British School Rio de Janeiro associated with the Computer Science department. The club has three branches with activities related to computer science, programming, engineering and financing.
 
 Advisor: [Oscar Neiva](https://oscarneiva.github.io/)
 
@@ -13,8 +13,8 @@ The programming branch at CS0 focuses on programming olympiads and competitions.
 
 Ambassador: João Pedro Marujo
 
-## [Finance Branch 📈](https://tbscs0.github.io/finance.html)
-The finance branch at CS0 focuses on investments, predictive algorithms and machine learning.
+## [Financing Branch 📈](https://tbscs0.github.io/finance.html)
+The financing branch at CS0 focuses on investments, predictive algorithms and machine learning.
 
 Ambassador: [Miguel Prieto](https://github.com/MiguelVPrieto)
 
