@@ -11,7 +11,7 @@ Ambassador: Arthur Kiyoshi
 ## [Programming Branch 💻](https://tbscs0.github.io/programming.html)
 The programming branch at CS0 focuses on programming olympiads and competitions. The students participating in this branch have C++ and algorithms tutorial sessions to prepare for the Brazilian Informatics Olympiad (Olipíada Brasileira de Informática - OBI). OBI is the Brazilian national competition to select the best students in the country for the International Olympiad in Informatics (IOI).
 
-Ambassador: João Pedro Marujo
+Ambassador: João Pedro Marujo Costa Pinto
 
 ## [Financing Branch 📈](https://tbscs0.github.io/finance.html)
 The financing branch at CS0 focuses on investments, predictive algorithms and machine learning.
