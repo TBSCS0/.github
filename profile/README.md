@@ -6,7 +6,7 @@ Advisor: [Oscar Neiva](https://oscarneiva.github.io/)
 ## [Engineering Branch 🚀](https://tbscs0.github.io/engineering.html)
 The CS0 engineering branch focuses on the production of nanosatellite systems. Among the nanosatellite categories, the CS0 developed a cansat. Cansats have a small set of subsystems, for instance, the power and energy subsystem, sensors subsystem and communication subsystem.
 
-Ambassador: Arthur Kiyoshi
+Ambassador: [Arthur Kiyoshi](https://github.com/Kiyoushi123)
 
 ## [Programming Branch 💻](https://tbscs0.github.io/programming.html)
 The programming branch at CS0 focuses on programming olympiads and competitions. The students participating in this branch have C++ and algorithms tutorial sessions to prepare for the Brazilian Informatics Olympiad (Olipíada Brasileira de Informática - OBI). OBI is the Brazilian national competition to select the best students in the country for the International Olympiad in Informatics (IOI).
