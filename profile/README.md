@@ -24,4 +24,4 @@ The alumni listed here made great contributions and were pioneers in some of the
 - [Laura Lane](https://github.com/lauralane333). Made great contributions to the development of the Ground Station system of the CanSat.
 - [Yerin Cho](https://github.com/yerincho04). Made great contributions to the development of the Ground Station system of the CanSat.
 - [Luiz Raffaini](https://github.com/LuizEduardoRaffaini). Made great contributions to the development of the Amazing Encryptor.
-- [Rafaela Dias](https://github.com/2023RafaDias). Made great contributions to the telemetry subsystem of the CanSat, and the CS0 OBI sessions by making publicly available a set of OBI-solved problems.
+- [Rafaela Dias](https://github.com/2023RafaDias). Made great contributions to the telemetry subsystem of the CanSat, and the CS0 OBI sessions by making publicly available a huge set of OBI-solved problems.
